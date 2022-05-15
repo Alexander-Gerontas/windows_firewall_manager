@@ -1,2 +1,2 @@
-# windows_firewall_manager
+# windows firewall manager
 Διαχειριστής του τοίχους προστασίας των Windows
